@@ -3,4 +3,5 @@ snowflake-connector-python[pandas]
 pyarrow<8.1.0,>=8.0.0
 cffi==1.15.0
 streamlit >= 1.9.2
+charset-normalizer~=2.0.0 
 #pyarrow==6.0.1 
